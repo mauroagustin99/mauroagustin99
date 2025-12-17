@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mauro Marcosano
 
-### An experienced Javascript developer
+### Systems Engineer Student
 
 - 🔭 I'm currently working on **a PEAN stack project**
 
