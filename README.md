@@ -1,4 +1,4 @@
-# Hi, I'm Mauro Marcosano
+# Mauro Marcosano
 
 ### Junior Technical Analyst | Systems Engineering Student
 
